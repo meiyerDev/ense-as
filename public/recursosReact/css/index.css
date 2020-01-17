@@ -1,0 +1,19 @@
+body {
+  background-image: url('/recursosJuego/fondoJuego.png');
+}
+
+.module-hover-shadow:hover {
+  box-shadow: 1px 1px 5px black;
+}
+
+.respuesta-shadow {
+  box-shadow: 1px 1px 5px black;
+}
+
+.centrar-loader {
+	position: absolute;
+	color: #FFF;
+	z-index: 1001;
+	top: 50%;
+	left: 48%;
+}
